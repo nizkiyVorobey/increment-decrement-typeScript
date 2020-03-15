@@ -2,6 +2,9 @@
   "name": "increment-decrement-typescript",
   "version": "0.1.0",
   "private": true,
+  "devDependencies": {
+    "gh-pages": "^1.0.0"
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
@@ -19,6 +22,7 @@
     "typescript": "~3.7.2"
   },
   "scripts": {
+    "deploy": "gh-pages -d builf",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
