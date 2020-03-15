@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/increment-decrement-typeScript/static/css/main.5f361e03.chunk.css",
+    "main.js": "/increment-decrement-typeScript/static/js/main.9d119af1.chunk.js",
+    "main.js.map": "/increment-decrement-typeScript/static/js/main.9d119af1.chunk.js.map",
+    "runtime-main.js": "/increment-decrement-typeScript/static/js/runtime-main.11080840.js",
+    "runtime-main.js.map": "/increment-decrement-typeScript/static/js/runtime-main.11080840.js.map",
+    "static/js/2.52d1e8c7.chunk.js": "/increment-decrement-typeScript/static/js/2.52d1e8c7.chunk.js",
+    "static/js/2.52d1e8c7.chunk.js.map": "/increment-decrement-typeScript/static/js/2.52d1e8c7.chunk.js.map",
+    "index.html": "/increment-decrement-typeScript/index.html",
+    "precache-manifest.6112c73255e82e586b0dc62bff82a557.js": "/increment-decrement-typeScript/precache-manifest.6112c73255e82e586b0dc62bff82a557.js",
+    "service-worker.js": "/increment-decrement-typeScript/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/increment-decrement-typeScript/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.52d1e8c7.chunk.js.LICENSE.txt": "/increment-decrement-typeScript/static/js/2.52d1e8c7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.11080840.js",
+    "static/js/2.52d1e8c7.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.9d119af1.chunk.js"
+  ]
+}
